@@ -1,0 +1,193 @@
+[22-Jan-2019 03:52:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:05:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:14:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:15:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:19:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:19:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:22:29 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[22-Jan-2019 04:30:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/myOrganization/updateMyOrg.php on line 7
+[07-Aug-2019 03:01:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/servicin/public_html/testing/phpfunctions/organization.php on line 212
+[07-Aug-2019 03:21:22 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:21:22 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:21:22 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:21:22 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:21:22 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:21:22 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:22:10 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:22:10 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:22:10 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:22:10 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:22:10 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:22:10 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:23:57 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:23:57 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:23:57 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:23:57 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:23:57 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:23:57 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:00 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:00 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:00 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:00 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:00 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:01 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:01 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:01 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:01 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:01 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:01 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:02 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:02 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:02 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:02 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:02 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:03 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:03 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:03 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:03 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:04 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:04 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:04 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:04 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:04 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:04 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:05 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:05 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:05 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:05 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:17 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:17 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:17 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:17 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:17 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:18 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:18 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:18 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:18 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:18 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:18 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:19 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:19 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:19 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:19 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:19 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:20 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:20 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:20 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:20 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:24:23 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:24:23 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:24:23 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:24:23 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:24:23 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:24:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:25:02 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:25:02 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:25:02 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:25:02 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:25:02 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:25:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:27:06 UTC] PHP Notice:  Undefined variable: con in /home/servicin/public_html/testing/phpfunctions/organization.php on line 214
+[07-Aug-2019 03:27:06 UTC] PHP Warning:  mysqli_prepare() expects parameter 1 to be mysqli, null given in /home/servicin/public_html/testing/query/organization.php on line 66
+[07-Aug-2019 03:27:06 UTC] PHP Warning:  mysqli_stmt_bind_param() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 67
+[07-Aug-2019 03:27:06 UTC] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 68
+[07-Aug-2019 03:27:06 UTC] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, null given in /home/servicin/public_html/testing/query/organization.php on line 69
+[07-Aug-2019 03:27:06 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/servicin/public_html/testing/query/organization.php on line 71
+[07-Aug-2019 03:27:33 UTC] PHP Notice:  Array to string conversion in /home/servicin/public_html/testing/organization/myOrganization/updateMyOrg.php on line 174
+[07-Aug-2019 03:28:40 UTC] PHP Notice:  Array to string conversion in /home/servicin/public_html/testing/organization/myOrganization/updateMyOrg.php on line 174
+[07-Aug-2019 03:28:40 UTC] PHP Notice:  Array to string conversion in /home/servicin/public_html/testing/organization/myOrganization/updateMyOrg.php on line 188
+[07-Aug-2019 03:30:32 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/servicin/public_html/testing/organization/myOrganization/updateMyOrg.php on line 174
+[07-Aug-2019 03:30:34 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/servicin/public_html/testing/organization/myOrganization/updateMyOrg.php on line 174
+[07-Nov-2019 09:08:24 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:08:52 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:10:24 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:16:06 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:16:47 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:19:21 UTC] PHP Notice:  Undefined index: banner in /home/jcloudmy/public_html/jsoft_acc_migration/phpfunctions/organization.php on line 221
+[07-Nov-2019 09:34:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadModulesByRoleId() in /home/jcloudmy/public_html/jsoft_acc_migration/navMenu.php:16
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc_migration/organization/myOrganization/updateMyOrg.php(146): include()
+#1 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc_migration/navMenu.php on line 16
+[07-Nov-2019 09:35:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function loadModulesByRoleId() in /home/jcloudmy/public_html/jsoft_acc_migration/navMenu.php:16
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc_migration/organization/myOrganization/updateMyOrg.php(146): include()
+#1 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc_migration/navMenu.php on line 16
+[26-Dec-2019 07:56:48 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[26-Dec-2019 08:01:31 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[26-Dec-2019 08:01:45 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[26-Dec-2019 08:42:46 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[26-Dec-2019 15:29:54 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 03:30:50 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 03:30:58 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 04:02:45 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 04:04:28 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 04:41:53 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 05:00:27 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 07:43:53 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 09:41:33 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 09:45:48 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[27-Dec-2019 09:50:38 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[28-Dec-2019 02:25:48 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[30-Dec-2019 03:43:45 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[31-Dec-2019 03:27:45 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[03-Jan-2020 03:22:51 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[03-Jan-2020 03:24:15 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[04-Jan-2020 03:21:33 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[04-Jan-2020 03:21:38 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[04-Jan-2020 03:21:39 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[04-Jan-2020 03:30:52 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[06-Jan-2020 02:18:28 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[06-Jan-2020 02:36:41 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[06-Jan-2020 02:41:27 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[06-Jan-2020 04:11:10 UTC] PHP Notice:  Undefined index: banner in /home/servicin/public_html/jsoft/phpfunctions/organization.php on line 221
+[25-Feb-2020 03:47:26 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/adklaksa/public_html/administration/organization/myOrganization/updateMyOrg.php:2) in /home/adklaksa/public_html/administration/organization/myOrganization/updateMyOrg.php on line 7
+[25-Feb-2020 03:51:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/adklaksa/public_html/administration/organization/myOrganization/updateMyOrg.php:2) in /home/adklaksa/public_html/administration/organization/myOrganization/updateMyOrg.php on line 7
+[09-Jun-2020 16:44:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[10-Jun-2020 13:52:59 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 14:47:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 15:24:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[22-Jun-2020 17:52:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[30-Jun-2020 13:10:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 12:00:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 12:01:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 12:02:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:01:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:02:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:48:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:48:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:56:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:56:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[10-Aug-2020 13:25:54 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:38:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 17:07:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 17:08:16 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47

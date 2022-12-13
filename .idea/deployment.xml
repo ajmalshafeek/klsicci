@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="devgk.jsuitecloud.com" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="advinster">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="demo.smartoffice.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="dev.smartoffice.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="devgk.jsuitecloud.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gk new server">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="gk.jsuitecloud.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="iiam.jsuitecloud.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="jsoft">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="jsoftNanba">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.vscode" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="localhost">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="redbrick.jsuitecloud.com">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="smartoffice">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.vscode" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="smu.smartoffice.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/cleanto/config.php" />
+            <excludedPath path="/query/connect.php" />
+            <excludedPath path="/organization/recurringInvoice/db.php" />
+            <excludedPath path="/organization/recurringInvoice/jsheetconfig.ini" />
+            <excludedPath path="/jsheetconfig.ini" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="thekitchen.smartoffice.my">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/.idea" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.vscode" />
+            <excludedPath path="/.well-known" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

@@ -1,0 +1,333 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 24
+            [customerName] => Pusat Tuisyen Suria Infiniti
+            [customerAddress] => Jalan Prima 5/1,
+Taman Puchong Prima,
+Puchong 47100,
+SELANGOR
+            [jobId] => 
+            [invoiceNo] => 24
+            [customerId] => 3
+            [attention] => Admin
+            [createdBy] => 37
+            [createdDate] => 2020-12-23 02:41:36
+            [invoiceDate] => 2020-12-23 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 2000.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2020-12-23 00:00:00
+            [fileName] => 0000000024(1608691296)
+            [footerId] => 
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [1] => Array
+        (
+            [id] => 25
+            [customerName] => ZAZITA GLOBAL
+            [customerAddress] => NO 36-1-A JALAN PANDAN JAYA 3/2,
+PANDAN JAYA,
+PANDAN JAYA 55100,
+KUALA LUMPUR
+            [jobId] => 
+            [invoiceNo] => 25
+            [customerId] => 326
+            [attention] => MR SHEIK FAKHRUDDIN
+            [createdBy] => 91
+            [createdDate] => 2021-01-19 01:16:21
+            [invoiceDate] => 2021-01-19 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 10085.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-10 00:00:00
+            [fileName] => 2021/Jan/0000000025(1611018981)
+            [footerId] => 9
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [2] => Array
+        (
+            [id] => 26
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 26
+            [customerId] => 199
+            [attention] => test
+            [createdBy] => 92
+            [createdDate] => 2021-02-03 07:34:06
+            [invoiceDate] => 2021-02-03 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 18340.50
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-03 00:00:00
+            [fileName] => 2021/Feb/0000000026(1612337646)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [3] => Array
+        (
+            [id] => 27
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 27
+            [customerId] => 199
+            [attention] => testfooter
+            [createdBy] => 92
+            [createdDate] => 2021-02-04 04:42:01
+            [invoiceDate] => 2021-02-04 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 0.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-04 00:00:00
+            [fileName] => 0000000027(1612413721)
+            [footerId] => 
+            [invalidate] => 1
+            [remark] => 
+        )
+
+    [4] => Array
+        (
+            [id] => 28
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 28
+            [customerId] => 199
+            [attention] => Test3
+            [createdBy] => 37
+            [createdDate] => 2021-02-10 09:39:38
+            [invoiceDate] => 2021-02-10 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 0.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-17 00:00:00
+            [fileName] => 2021/Feb/0000000028(1612949978)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [5] => Array
+        (
+            [id] => 29
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 29
+            [customerId] => 199
+            [attention] => Test3
+            [createdBy] => 37
+            [createdDate] => 2021-02-10 17:40:35
+            [invoiceDate] => 2021-02-10 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 0.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-17 00:00:00
+            [fileName] => 2021/Feb/0000000029(1612950035)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [6] => Array
+        (
+            [id] => 30
+            [customerName] => testingTTT
+            [customerAddress] => test,
+test,
+Johor 1234567,
+TERENGGANU
+            [jobId] => 
+            [invoiceNo] => 30
+            [customerId] => 342
+            [attention] => test
+            [createdBy] => 92
+            [createdDate] => 2021-02-11 09:41:24
+            [invoiceDate] => 2021-02-11 00:00:00
+            [paymentDate] => 2021-03-17 00:00:00
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 18340.50
+            [amountPaid] => 18340.50
+            [status] => 0
+            [orgId] => 2
+            [dueDate] => 2021-02-18 00:00:00
+            [fileName] => 2021/Feb/0000000030(1613007684)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [7] => Array
+        (
+            [id] => 31
+            [customerName] => testingTTT
+            [customerAddress] => test,
+test,
+Johor 1234567,
+TERENGGANU
+            [jobId] => 
+            [invoiceNo] => 31
+            [customerId] => 342
+            [attention] => test
+            [createdBy] => 92
+            [createdDate] => 2021-02-11 09:50:48
+            [invoiceDate] => 2021-02-11 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 0.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-02-18 00:00:00
+            [fileName] => 2021/Feb/0000000031(1613008248)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [8] => Array
+        (
+            [id] => 32
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 32
+            [customerId] => 199
+            [attention] => test
+            [createdBy] => 37
+            [createdDate] => 2021-03-16 12:53:12
+            [invoiceDate] => 2021-03-16 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 11000.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-03-23 00:00:00
+            [fileName] => 2021/Mar/0000000032(1615870392)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [9] => Array
+        (
+            [id] => 33
+            [customerName] =>  Acetalent
+            [customerAddress] => Unit 24.0, 24th Floor,,
+Public Bank Tower,,
+Jalan Wong Ah Fook 80000,
+JOHOR
+            [jobId] => 
+            [invoiceNo] => 33
+            [customerId] => 199
+            [attention] => test
+            [createdBy] => 37
+            [createdDate] => 2021-03-16 13:38:33
+            [invoiceDate] => 2021-03-16 00:00:00
+            [paymentDate] => 2021-03-17 00:00:00
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 10969.50
+            [amountPaid] => 10969.50
+            [status] => 0
+            [orgId] => 2
+            [dueDate] => 2021-03-23 00:00:00
+            [fileName] => 2021/Mar/0000000033(1615873113)
+            [footerId] => 1
+            [invalidate] => 0
+            [remark] => 
+        )
+
+    [10] => Array
+        (
+            [id] => 34
+            [customerName] =>  Jaya Technologies Services.  
+            [customerAddress] => No 48.Jalan Puj 5/3.,
+Taman Puncak Jalil. Bandar putra permai,
+Seri Kembangan 43300,
+SELANGOR
+            [jobId] => 
+            [invoiceNo] => 34
+            [customerId] => 301
+            [attention] => test
+            [createdBy] => 37
+            [createdDate] => 2021-03-18 00:08:42
+            [invoiceDate] => 2021-03-18 00:00:00
+            [paymentDate] => 
+            [subTotal] => 
+            [discount] => 
+            [tax] => 
+            [total] => 2838.00
+            [amountPaid] => 
+            [status] => 1
+            [orgId] => 2
+            [dueDate] => 2021-03-16 00:00:00
+            [fileName] => 0000000034(1615997322)
+            [footerId] => 
+            [invalidate] => 0
+            [remark] => 
+        )
+
+)

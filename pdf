@@ -1,0 +1,329 @@
+<?php
+$config=parse_ini_file(__DIR__."/../jsheetconfig.ini");
+if(!isset($_SESSION)) 
+{ 
+ 	session_name($config['sessionName']);
+	session_start(); 
+} 
+require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/connect.php");
+
+
+require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/external/phpmailer/src/PHPMailer.php");
+require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/external/phpmailer/src/SMTP.php");
+require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/external/phpmailer/src/Exception.php");
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\Exception;
+
+
+	function mailTask($from,$fromName,$to,$subject,$body,$orgLogo){
+		$mailMessage="/n<div class='alert alert-warning' role='alert'>\n
+		<strong>FAILED!</strong> FAILED TO SEND E-MAIL \n
+		</div>\n";
+		
+		$email = new PHPMailer();
+		$email->From      = $from;
+		$email->FromName  = strtoupper($fromName);
+		$email->Subject   = $subject;
+		$email->Body      = $body;
+		$email->AddAddress($to);
+
+		
+
+		$email->IsHTML(true);   
+		$email->AddEmbeddedImage(dirname(__DIR__)."/resources/".$orgLogo.".png", 'logo_2u');
+
+
+		if(!$email->send()) {
+			echo 'Message could not be sent.';
+			echo 'Mailer Error: ' . $email->ErrorInfo;
+		} else {
+			$mailMessage="<div class='alert alert-success' role='alert'>\n
+			<strong>SUCCESS !</strong> E-MAIL SENT SUCCESSFULLY\n
+			</div>\n";
+		}
+
+		return $mailMessage;
+	}
+	
+	if(isset($_POST['mailQuotation'])){
+		$con=connectDb();
+		$config=parse_ini_file(__DIR__."/../jsheetconfig.ini");
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/organization.php");
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/quotation.php");
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/quotationMailList.php");
+	
+
+		$total = count($_FILES['files']['name']);
+
+		
+
+		$orgId=$_SESSION['orgId'];
+		$orgDetails=getOrganizationDetails($con,$orgId);
+
+		$toAddress=null;
+		$ccAddress=null;
+		$messageBody=$_POST['messageBody']; 
+		
+		if(isset($_POST['quotationMailAddress'])){
+			$toAddress=$_POST['quotationMailAddress'];
+			$toAddress=substr($toAddress,1,strlen($toAddress)-2);
+			$toAddress=explode(",",$toAddress);
+		}
+		
+		if(isset($_POST['quotationMailAddressCC'])){
+			$ccAddress=$_POST['quotationMailAddressCC'];
+			$ccAddress=substr($ccAddress,1,strlen($ccAddress)-2);
+			$ccAddress=explode(",",$ccAddress);
+		}
+		
+		$quotatationDetails=fetchQuotationDetailsByQuotationNo($con,$_SESSION['quotationNumber']);
+		$deleteSucess=deleteQuotationMailListByQuotId($con,$quotatationDetails['id']);
+		foreach($toAddress as $address){
+			$maillAddress=substr($address,1,strlen($address)-2) ;	
+			if(strlen($maillAddress)>0){
+				createMailSentList($con,$quotatationDetails['id'],$maillAddress,"TO",$orgId);
+			}
+		}
+
+		foreach($ccAddress as $address){
+			$maillAddress=substr($address,1,strlen($address)-2) ;	
+			if(strlen($maillAddress)>0){
+				createMailSentList($con,$quotatationDetails['id'],$maillAddress,"CC",$orgId);
+			}
+		}
+
+		$messageBody=preg_replace("/id=\"myOrgLogo\" src=\".*?\"/", "src='cid:logo_2u'", $messageBody);
+
+		$email = new PHPMailer();
+		
+		$email->From      = $orgDetails['salesEmail'];
+		$email->FromName  = strtoupper($orgDetails['name']);
+		$email->Subject   = $_POST['subject'];
+
+		$footer="";
+		
+		
+		$email->Body      = $messageBody;
+		$email->IsHTML(true);   
+		
+		foreach($toAddress as $address){
+			$email->AddAddress( substr($address,1,strlen($address)-2) );
+		
+			
+		}
+		foreach($ccAddress as $address){
+			$email->AddCC( substr($address,1,strlen($address)-2));
+		
+		}
+		
+		$email->AddEmbeddedImage(dirname(__DIR__)."/resources/".$_SESSION['orgLogo'].".png", 'logo_2u');
+		
+
+		$file_to_attach = $_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/resources/".$orgId."/quotation/";
+
+		
+		$filename=$quotatationDetails['fileName'].".pdf";
+		
+		// attach quotation file
+		$email->AddAttachment( $file_to_attach.$filename , "QUOTATION_#".$_SESSION['quotationNumber'].".pdf" );
+
+
+		// attach uploaded file
+		$date = new DateTime();
+        $directory=$date->getTimestamp();
+		for( $i=0 ; $i < $total ; $i++ ) {
+		
+			//Get the temp file path
+			$tmpFilePath = $_FILES['files']['tmp_name'][$i];
+		    
+			//Make sure we have a file path
+			if ($tmpFilePath != ""){
+			  //Setup our new file path
+			   
+               if (!file_exists(dirname(__DIR__)."/temp/".$directory)) {
+                       mkdir(dirname(__DIR__)."/temp/".$directory, 0777, true);
+
+               }
+
+
+			  $newFilePath = dirname(__DIR__)."/temp/".$directory."/" . $_FILES['files']['name'][$i];
+		  
+			  //Upload the file into the temp dir
+
+			  if(move_uploaded_file($tmpFilePath, $newFilePath)) {
+			  	 $email->addAttachment($newFilePath);
+				//Handle other code here
+		  
+			  }
+			}
+		}
+	
+
+		$mailMessage="<div class='alert alert-warning' role='alert'>\n
+			<strong>FAILED!</strong> FAILED TO SEND QUOTATION \n
+			</div>\n";
+		
+		if(!$email->send()) {
+			echo 'Message could not be sent.';
+			echo 'Mailer Error: ' . $email->ErrorInfo;
+		  } else {
+				$mailMessage="<div class='alert alert-success' role='alert'>\n
+				<strong>SUCCESS !</strong> QUOTATION SENT SUCCESSFULLY\n
+				</div>\n";
+		  }
+		 
+	 	if (!file_exists(dirname(__DIR__)."/temp/".$directory)) {
+	        array_map('unlink', glob(dirname(__DIR__)."/temp/".$directory."/*.*"));
+            rmdir(dirname(__DIR__)."/temp/".$directory);
+	    }
+		$_SESSION['feedback']=$mailMessage;
+		unset($_SESSION['quotationNumber']);
+		
+		header("Location:  https://".$_SERVER['HTTP_HOST'].$config['appRoot']."/organization/quotation/viewQuotation.php");
+	}
+
+	if(isset($_POST['mailInvoice'])){
+		$con=connectDb();
+		$config=parse_ini_file(__DIR__."/../jsheetconfig.ini");
+
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/organization.php");
+
+		$total = count($_FILES['files']['name']);
+
+		$orgId=$_SESSION['orgId'];
+		$orgDetails=getOrganizationDetails($con,$orgId);
+
+		$toAddress=null;
+		$ccAddress=null;
+		$messageBody=$_POST['messageBody']; 
+		
+		if(isset($_POST['invoiceMailAddress'])){
+			$toAddress=$_POST['invoiceMailAddress'];
+			$toAddress=substr($toAddress,1,strlen($toAddress)-2);
+			$toAddress=explode(",",$toAddress);
+			
+		}
+	
+		
+		if(isset($_POST['invoiceMailAddressCC'])){
+			$ccAddress=$_POST['invoiceMailAddressCC'];
+			$ccAddress=substr($ccAddress,1,strlen($ccAddress)-2);
+			$ccAddress=explode(",",$ccAddress);
+		}
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/invoice.php");
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/invoiceMailList.php");
+
+		$invoiceDetails=fetchInvoiceDetailsByInvoiceNo($con,$_SESSION['invoiceNumber']);
+		$deleteSucess=deleteInvoiceMailListByInvId($con,$invoiceDetails['id']);
+		foreach($toAddress as $address){
+			$maillAddress=substr($address,1,strlen($address)-2) ;	
+			if(strlen($maillAddress)>0){
+				createMailSentList($con,$invoiceDetails['id'],$maillAddress,"TO",$orgId);
+			}
+		}
+
+		foreach($ccAddress as $address){
+			$maillAddress=substr($address,1,strlen($address)-2) ;
+			if(strlen($maillAddress)>0){
+				createMailSentList($con,$invoiceDetails['id'],$maillAddress,"CC",$orgId);
+			}
+		}
+
+		$messageBody=preg_replace("/id=\"myOrgLogo\" src=\".*?\"/", "src='cid:logo_2u'", $messageBody);		
+		
+		$email = new PHPMailer();
+
+		$email->From      = $orgDetails['salesEmail'];
+		$email->FromName  = strtoupper($orgDetails['name']);
+		$email->Subject   = $_POST['subject'];
+		
+		$footer="";
+		$email->Body      = $messageBody;
+		$email->IsHTML(true);   
+
+		foreach($toAddress as $address){
+			$email->AddAddress( substr($address,1,strlen($address)-2) );	
+			
+		}
+
+		foreach($ccAddress as $address){
+			$email->AddCC( substr($address,1,strlen($address)-2));
+			
+		}
+		
+		$email->AddEmbeddedImage(dirname(__DIR__)."/resources/".$_SESSION['orgLogo'].".png", 'logo_2u');
+
+		//$email->SMTPAuth  =  "true";
+
+		$file_to_attach = $_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/resources/".$orgId."/invoice/";
+
+		$filename=$invoiceDetails['fileName'].".pdf";
+	
+		// add invoice file
+		$email->AddAttachment( $file_to_attach.$filename , "INVOICE_#".$_SESSION['invoiceNumber'].".pdf" );
+
+		// attach uploaded file
+		$date = new DateTime();
+		$directory=$date->getTimestamp();
+		for( $i=0 ; $i < $total ; $i++ ) {
+
+			//Get the temp file path
+			$tmpFilePath = $_FILES['files']['tmp_name'][$i];
+			
+			//Make sure we have a file path
+			if ($tmpFilePath != ""){
+			//Setup our new file path
+			
+			if (!file_exists(dirname(__DIR__)."/temp/".$directory)) {
+					mkdir(dirname(__DIR__)."/temp/".$directory, 0777, true);
+
+			}
+
+
+			$newFilePath = dirname(__DIR__)."/temp/".$directory."/" . $_FILES['files']['name'][$i];
+		
+			//Upload the file into the temp dir
+
+			if(move_uploaded_file($tmpFilePath, $newFilePath)) {
+				$email->addAttachment($newFilePath);
+				//Handle other code here
+		
+			}
+			}
+		}
+
+		$mailMessage="<div class='alert alert-warning' role='alert'>\n
+			<strong>FAILED!</strong> FAILED TO SEND INVOICE \n
+			</div>\n";
+		
+		if(!$email->send()) {
+			echo 'Message could not be sent.';
+			echo 'Mailer Error: ' . $email->ErrorInfo;
+		  } else {
+				$mailMessage="<div class='alert alert-success' role='alert'>\n
+				<strong>SUCCESS !</strong> INVOICE SENT SUCCESSFULLY\n
+				</div>\n";
+		  }
+		  
+		if (!file_exists(dirname(__DIR__)."/temp/".$directory)) {
+	        array_map('unlink', glob(dirname(__DIR__)."/temp/".$directory."/*.*"));
+            rmdir(dirname(__DIR__)."/temp/".$directory);
+	    }
+		$_SESSION['feedback']=$mailMessage;
+		
+		unset($_SESSION['invoiceNumber']);
+		header("Location:  https://".$_SERVER['HTTP_HOST'].$config['appRoot']."/organization/invoice/viewInvoice.php");
+		
+	}
+
+	if(isset($_GET['mailSuggestion'])){
+		$con=connectDb();
+		$config=parse_ini_file(__DIR__."/../jsheetconfig.ini");
+		require_once($_SERVER['DOCUMENT_ROOT'].$config['appRoot']."/query/mail.php");
+
+		$emails=fetchEmailSuggestion($con,$_GET['key'],2);
+		echo json_encode($emails);
+
+	}
+	
+?>

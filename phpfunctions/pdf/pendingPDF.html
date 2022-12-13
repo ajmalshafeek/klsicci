@@ -1,0 +1,303 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        table{
+            margin:10px;
+        }
+        table.quotation-org-Header{
+            width:550pt;
+            border-collapse:collapse;
+        }
+        table.quotation-Header{
+            width:550pt;
+        //		border-collapse:collapse;
+        }
+        .quotation-Header-Title{
+            width:550pt;
+            text-align:center;
+            background-color:black;
+            color:white;
+            font-size:20px;
+        }
+        .myOrgName{
+            text-align:left;
+            width:40%;
+            font-weight:bold;
+            font-size:16px;
+        }
+        .myOrgAddress{
+        //width:27pt;
+            text-align:left;
+        }
+        .myOrgLogo{
+            width:20%;
+            height:100px;
+        //border:1px solid red;
+            text-align: left;
+        }
+        .contact{
+            text-align:left;
+        }
+        .customerName{
+            width:50%;
+            font-weight:bold;
+            font-size:24px;
+        }
+        .meta-head{
+            border:1px solid black;
+        //border-bottom:1px solid black;
+            font-weight:bold;
+            padding: 5px;
+            text-align:left;
+            background-color:#eee;
+            font-size:15px;
+        }
+        .meta-body{
+            border:1px solid black;
+            padding: 5px;
+            text-align:right;
+        }
+        td{
+        //	border:1px solid black;
+        }
+        th{
+            border:1px solid black;
+        }
+        .quotation-Content{
+            width:550pt;
+            border-collapse:collapse;
+        }
+        .th-Item,.th-Description,.th-UnitCost,.th-Quantity,.th-Price{
+            background-color:#eee;
+            border:1px solid black;
+            padding: 5px;
+            font-size:15px;
+        }
+        .th-Item{
+            width:25%;
+        }
+        .th-Description{
+            width:40%;
+        }
+        .th-UnitCost{
+            width:10%;
+        }
+        .th-Quantity{
+            width:8%;
+            text-align:center;
+        }
+        .th-Price{
+            width:15%;
+        }
+        .td-Item,.td-Description,.td-UnitCost,.td-Quantity,.td-Price{
+        //border-bottom:1px solid black;
+            padding: 10px;
+            border:1px solid black;
+        }
+        .td-Item{
+            width:25%;
+            border-left:1px solid black;
+        }
+        .td-Description{
+            width:40%;
+        }
+        .td-UnitCost{
+            width:15%;
+        }
+        .td-Quantity{
+            width:8%;
+            text-align:center;
+        }
+        .td-Price{
+            width:15%;
+            border-right:1px solid black;
+        }
+        .blank{
+        //border-right:1px solid black;
+        }
+        .footer-head-TOTAL{
+            padding: 10px;
+            border:1px solid black;
+            font-weight:bold;
+            text-align:right;
+        }
+        .footer-body-TOTAL{
+            padding: 10px;
+            border:1px solid black;
+        }
+        .page_Footer{
+            text-align:center;
+            font-weight:bold;
+        }
+        td{
+        //	border:1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <table class="quotation-org-Header" style='border-collapse: collapse;width:100%' >
+        <tbody>
+        <tr>
+            <td class="myOrgLogo" rowspan="4" valign="bottom">
+                '.$myOrLogo.'
+            </td>
+            <td class="myOrgName" valign="bottom">
+               '.$myOrgName.'
+            </td>
+
+        </tr>
+        <tr>
+            <td class="myOrgAddress" valign="top">
+                '.nl2br($myOrgAddress).'
+            </td>
+        </tr>
+        <tr>
+            <td class="contact" valign="top">
+                Phone No : '.$orgPhone.'
+            </td>
+        </tr>
+        <tr>
+            <td class="contact" valign="top">
+                Fax No. : '.$orgFaxNo.'
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <table  class="quotation-Header" style='border-collapse: collapse;width:100%' >
+    <tbody>
+        <thead>
+        <tr>
+            <th colspan="4" class="quotation-Header-Title">
+                STATEMENT OF ACCOUNT
+            </th>
+        </tr>
+        <tr>
+            <th style="border:none">&nbsp;
+            </th>
+        </tr>
+        </thead>
+        <tr>
+            <td rowspan="4" valign="top" > <b>TO : </b>
+            </td>
+            <td  class="customerName">
+                '.$customerName.',
+            </td>
+            <td class="meta-head">
+                Statement Date
+            </td>
+            <td class="meta-body">
+                '.$quotationNumber.'
+            </td>
+        </tr>
+        <tr class="meta">
+            <td rowspan="3">
+                '.nl2br($customerAddress).'
+            </td>
+            <td class="meta-head">
+                Terms
+            </td>
+            <td class="meta-body">';
+                $quotationDate=date_create($quotationDate);
+                $quotTableHeader.=date_format($quotationDate,"d/m/Y").'
+            </td>
+        </tr>
+        <tr>
+            <td class="meta-head">
+                Page
+            </td>
+            <td class="meta-body">
+                '.date_format($dueDate,"d/m/Y").'
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" > &nbsp; <br/>
+            </td>
+        </tr>
+        <tr>
+            <td >
+                <b>ATTN : </b>
+            </td>
+            <td colspan="3">
+                '.$attention.'
+            </td>
+        </tr>
+        </tbody>
+    </table>
+    <table class="quotation-Content" style='border-collapse: collapse;width:100%'>
+        <tr>
+            <th class="th-Item">
+                Date
+            </th>
+            <th class="th-Item">
+                Reference Invoice No
+            </th>
+            <th class="th-Description">
+                Description
+            </th>
+            <th class="th-UnitCost">
+                Debit
+            </th>
+            <th class="th-Quantity">
+                Credit
+            </th>
+            <th class="th-Price">
+                Balance
+            </th>
+        </tr>
+        <tr>
+            <td class="td-Item" valign="top">
+                '.$itemName.'
+            </td>
+            <td class="td-Description" valign="top">
+                '.nl2br($itemDescription).'
+            </td>
+            <td class="td-UnitCost" valign="top">
+                '.$itemCost.'
+            </td>
+            <td class="td-Quantity" valign="top">
+                '.$itemQty.'
+            </td>
+            <td class="td-Price" valign="top">
+                '.$price.'
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"  class="blank" style="border-right:1px solid black;">
+            </td>
+            <td colspan="2" class="footer-head-TOTAL" >
+                TOTAL
+            </td>
+            <td class="footer-body-TOTAL" >
+                '.$quotationTotalAmount.'
+            </td>
+        </tr>
+        <tr>
+            <td class="blank" colspan="5" style="padding:10px;">
+                <br/>
+                <br/>
+                '.$extraNote.'
+            </td>
+        </tr>
+        <tr>
+            <td class="blank" colspan="1" style="padding:10px;font-weight:bold;text-align:center;">
+                '.$myOrgName.'
+                <br/>
+                '.$stamp.'<hr/>
+                <br/>
+                '.$sign.'
+                <br/>
+                AUTHORIZED BY
+            </td>
+            <td class="blank" colspan="4">
+            </td>
+        </tr>
+        </tbody>
+    </table>
+</body>
+</html>

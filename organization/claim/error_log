@@ -1,0 +1,205 @@
+[13-Jan-2020 08:10:02 UTC] PHP Fatal error:  Call to undefined function productlist() in /home/servicin/public_html/jsoft/organization/claim/claimForm.php on line 143
+[16-Jan-2020 02:33:22 UTC] PHP Parse error:  syntax error, unexpected 'Claim' (T_STRING), expecting ',' or ';' in /home/servicin/public_html/jsoft/navMenu.php on line 482
+[16-Jan-2020 02:34:59 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:34:59 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:35:05 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:35:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:36:26 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:36:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:36:30 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:36:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:37:22 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:37:22 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:38:36 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:38:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:38:47 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:38:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:39:02 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:39:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:40:05 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:40:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:43:28 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:43:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:45:07 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:45:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:45:38 UTC] PHP Warning:  require_once(/home/servicin/public_html/jsoft/query/claim.php): failed to open stream: No such file or directory in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[16-Jan-2020 02:45:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/servicin/public_html/jsoft/query/claim.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/servicin/public_html/jsoft/phpfunctions/claim.php on line 9
+[29-Jan-2020 12:58:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: staffId in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 66
+[29-Jan-2020 12:58:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: userId in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 66
+[31-Jan-2020 11:13:55 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function fetchOrganizationUserList() in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 294
+[31-Jan-2020 11:13:59 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function fetchOrganizationUserList() in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 294
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'id' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'name' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:22:37 Asia/Kuala_Lumpur] PHP Warning:  Illegal string offset 'staffId' in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 301
+[31-Jan-2020 11:34:09 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined function fetchOrganizationUserListbyId() in /home/jcloudmy/public_html/demo/phpfunctions/organizationUser.php on line 295
+[31-Jan-2020 12:25:31 Asia/Kuala_Lumpur] PHP Parse error:  syntax error, unexpected '}' in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 95
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 11:15:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 11:19:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:10:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:10:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:24:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:30:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 13:38:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 103
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 104
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 105
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 106
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: tag in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[04-Feb-2020 17:51:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined variable: status in /home/jcloudmy/public_html/demo/phpfunctions/claim.php on line 107
+[10-Jun-2020 13:32:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Jun-2020 17:06:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Jun-2020 17:13:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[12-Jun-2020 10:55:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[12-Jun-2020 11:51:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 11:36:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 12:02:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 12:03:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 12:04:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 12:04:05 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 12:04:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:31:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:43:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:43:33 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:43:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:43:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:47:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:49:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:56:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:57:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 13:58:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:00:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:04:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:26:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:26:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:27:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:28:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:28:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:30:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:31:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:31:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:31:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:33:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:33:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:33:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:37:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:37:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[13-Jun-2020 14:37:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[19-Jun-2020 07:58:51 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[23-Jun-2020 01:10:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[23-Jun-2020 01:12:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[23-Jun-2020 01:13:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[23-Jun-2020 01:13:06 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 15:30:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 15:31:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:33:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:37:24 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:37:37 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:43:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:43:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:43:57 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:44:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:46:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:49:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[06-Jul-2020 16:49:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:23:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:26:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:29:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:44:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:44:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:44:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:45:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:45:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:45:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:46:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 11:46:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Jul-2020 15:24:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:46:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:46:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:47:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:47:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:48:10 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[09-Jul-2020 14:48:13 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 15:00:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 15:00:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 15:02:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 10:59:34 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 10:59:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:56:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:57:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:58:50 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 15:20:35 Asia/Kuala_Lumpur] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/jcloudmy/public_html/testing/organization/claim/viewClaim.php:150) in /home/jcloudmy/public_html/testing/phpfunctions/isLogin.php on line 7
+[04-Aug-2020 10:19:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:35:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 13:06:45 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 11:06:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 11:07:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 11:07:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:24:52 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:24:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:25:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:27:17 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:27:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:28:26 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:28:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 15:31:36 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47

@@ -1,0 +1,29 @@
+Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [cid] => 343
+            [name] => Shafeek Ajmal IND
+            [address] => east tejturi bazar, dhaka-1200. word no-04, road no-13/c, house no-4/c
+            [email] => ajmalshafeek@gmail.com
+            [phone] => +8801941101918
+            [grandtotal] => 35.18
+            [orderdate] => 2021-09-25 13:29:23
+            [status] => 4
+        )
+
+    [1] => Array
+        (
+            [id] => 2
+            [cid] => 343
+            [name] => Shafeek Ajmal IND
+            [address] => east tejturi bazar, dhaka-1200. word no-04, road no-13/c, house no-4/c
+            [email] => ajmalshafeek@gmail.com
+            [phone] => +8801941101918
+            [grandtotal] => 23853.32
+            [orderdate] => 2021-09-26 14:18:34
+            [status] => 1
+        )
+
+)

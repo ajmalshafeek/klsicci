@@ -1,0 +1,35 @@
+[31-Jul-2019 10:11:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/servicin/public_html/testing/phpfunctions/job.php on line 1333
+[31-Jul-2019 10:12:46 UTC] PHP Parse error:  syntax error, unexpected 'EMPTY' (T_EMPTY) in /home/servicin/public_html/testing/phpfunctions/job.php on line 387
+[31-Jul-2019 10:12:48 UTC] PHP Parse error:  syntax error, unexpected 'EMPTY' (T_EMPTY) in /home/servicin/public_html/testing/phpfunctions/job.php on line 387
+[11-Jun-2020 15:05:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Jun-2020 15:46:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 16:24:38 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 17:34:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 17:34:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 12:15:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 14:39:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 14:39:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 14:41:09 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[25-Jun-2020 11:55:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 11:10:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 11:54:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 11:54:25 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 14:19:08 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jul-2020 14:19:42 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:08:28 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:08:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:14:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:15:58 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:16:00 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:16:02 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:16:03 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[11-Aug-2020 10:16:04 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 10:49:56 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 10:51:49 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 10:59:44 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:00:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:03:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:07:11 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:14:23 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:19:14 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 11:21:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47

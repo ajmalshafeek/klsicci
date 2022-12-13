@@ -1,0 +1,54 @@
+[27-Dec-2018 17:44:07 Asia/Kuala_Lumpur] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/jcloudmy/public_html/jsoft_acc/query/genFunc.php on line 31
+[27-Dec-2018 17:44:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 25
+[27-Dec-2018 17:44:07 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 26
+[27-Dec-2018 17:44:07 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php:27
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc/phpfunctions/configuration.php(112): fetchPdfFooterList(Object(mysqli), NULL, 2)
+#1 /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php(201): getPdfFooterList(NULL, 2)
+#2 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 27
+[27-Dec-2018 17:44:19 Asia/Kuala_Lumpur] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/jcloudmy/public_html/jsoft_acc/query/genFunc.php on line 31
+[27-Dec-2018 17:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 25
+[27-Dec-2018 17:44:19 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 26
+[27-Dec-2018 17:44:19 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php:27
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc/phpfunctions/configuration.php(112): fetchPdfFooterList(Object(mysqli), NULL, 2)
+#1 /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php(201): getPdfFooterList(NULL, 2)
+#2 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 27
+[27-Dec-2018 17:45:01 Asia/Kuala_Lumpur] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/jcloudmy/public_html/jsoft_acc/query/genFunc.php on line 31
+[27-Dec-2018 17:45:01 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 25
+[27-Dec-2018 17:45:01 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 26
+[27-Dec-2018 17:45:01 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php:27
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc/phpfunctions/configuration.php(112): fetchPdfFooterList(Object(mysqli), NULL, 2)
+#1 /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php(201): getPdfFooterList(NULL, 2)
+#2 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 27
+[27-Dec-2018 17:49:40 Asia/Kuala_Lumpur] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/jcloudmy/public_html/jsoft_acc/query/genFunc.php on line 31
+[27-Dec-2018 17:49:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 25
+[27-Dec-2018 17:49:40 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 26
+[27-Dec-2018 17:49:40 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php:27
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc/phpfunctions/configuration.php(112): fetchPdfFooterList(Object(mysqli), NULL, 2)
+#1 /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php(201): getPdfFooterList(NULL, 2)
+#2 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 27
+[27-Dec-2018 17:51:22 Asia/Kuala_Lumpur] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/jcloudmy/public_html/jsoft_acc/query/genFunc.php on line 31
+[27-Dec-2018 17:51:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_execute() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 25
+[27-Dec-2018 17:51:22 Asia/Kuala_Lumpur] PHP Warning:  mysqli_stmt_get_result() expects parameter 1 to be mysqli_stmt, boolean given in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 26
+[27-Dec-2018 17:51:22 Asia/Kuala_Lumpur] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php:27
+Stack trace:
+#0 /home/jcloudmy/public_html/jsoft_acc/phpfunctions/configuration.php(112): fetchPdfFooterList(Object(mysqli), NULL, 2)
+#1 /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php(201): getPdfFooterList(NULL, 2)
+#2 {main}
+  thrown in /home/jcloudmy/public_html/jsoft_acc/query/pdffooterlist.php on line 27
+[22-Jan-2019 04:25:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/setting/qiSetting.php on line 7
+[16-Jun-2020 15:16:40 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 15:24:15 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[16-Jun-2020 21:51:32 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[23-Jun-2020 12:28:12 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[24-Jun-2020 15:44:22 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[02-Jul-2020 15:45:39 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[21-Jul-2020 11:33:31 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[08-Sep-2020 10:49:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47

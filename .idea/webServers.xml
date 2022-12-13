@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="225864a4-a243-4f9a-86ed-4760b09aef18" name="smartoffice" url="https://dev.jsoftsolution.com.my">
+        <fileTransfer rootFolder="/dev.jsoftsolution.com.my" host="110.4.45.24" port="21">
+          <advancedOptions>
+            <advancedOptions forceListCommand="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1efac5d0-a9df-4403-a4ee-e9d7d2168d07" name="advinster" url="https://advinstar.smartoffice.my/">
+        <fileTransfer rootFolder="/public_html/advinstar" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f53574f5-975b-43fa-a027-16dc6993955f" name="jsoftNanba" url="https://jcloud.my/jsoftNanba">
+        <fileTransfer rootFolder="/public_html/jsoftNanba" host="ftp.jcloud.my" port="21">
+          <advancedOptions>
+            <advancedOptions forceListCommand="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4481e903-f6a2-4c62-bfe4-df425d2d78ad" name="devgk.jsuitecloud.com" url="https://devgk.jsuitecloud.com/">
+        <fileTransfer host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="732443a4-fecf-4989-88a8-6cfea3cfa4a5" name="dev.smartoffice.my" url="https://dev.smartoffice.my">
+        <fileTransfer rootFolder="/domains/smartoffice.my/public_html/dev" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="5626d57c-b784-44d7-b9d9-e28b4b60e627" name="gk.jsuitecloud.com" url="https://gk.jsuitecloud.com/">
+        <fileTransfer rootFolder="/public_html/gk" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="dbed11c3-ece7-436d-8f71-3d0581facb86" name="iiam.jsuitecloud.com" url="https://iiam.jsuitecloud.com/">
+        <fileTransfer rootFolder="/public_html/iiam" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="2c7e76bd-f5b1-4fbb-91a2-fe79a6cdabff" name="redbrick.jsuitecloud.com" url="https://redbrick.jsuitecloud.com/">
+        <fileTransfer rootFolder="/public_html/redbrick" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="e17971c8-3a04-4291-a919-3b0f5a6d4754" name="smu.smartoffice.my" url="https://smu.smartoffice.my">
+        <fileTransfer rootFolder="/public_html/smu" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9b88cd8e-1d6f-4110-9164-7dd5027ddd1b" name="gk new server" url="https://gk.jsuitecloud.com">
+        <fileTransfer rootFolder="/httpdocs" host="110.4.47.212" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="77c06a0a-95bd-4ec6-b5b9-4b7f523da38b" name="thekitchen.smartoffice.my" url="https://thekitchen.smartoffice.my/">
+        <fileTransfer rootFolder="/thekitchen.smartoffice.my" host="110.4.45.24" port="21">
+          <advancedOptions>
+            <advancedOptions forceListCommand="true" showHiddenFiles="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="82c175b5-5875-402f-9080-dd536d7dbb43" name="demo.smartoffice.my" url="https://demo.smartoffice.my">
+        <fileTransfer rootFolder="/public_html/demo" host="156.67.222.140" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ed27a1b4-e897-4126-af32-80e59c488528" name="jsoft" url="https://jsoft.jsuitecloud.com/">
+        <fileTransfer rootFolder="/public_html/jsoft.jsuitecloud.com" host="ftp.servicing-legendsan.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="d043f39c-cb18-411c-ab2e-a46b32dd0f87" name="localhost" url="https://localhost/jsuite">
+        <fileTransfer mountedRoot="C:\xampp8.0\htdocs\jsuite" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

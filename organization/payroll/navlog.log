@@ -1,0 +1,54 @@
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 92
+    [fullName] => TAN
+    [name] => TAN
+    [username] => t003
+    [email] => tankangzhi@gmail.com
+    [status] => 1
+    [role] => 4
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)

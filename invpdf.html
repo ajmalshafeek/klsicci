@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>INV PDF</title>
+    <style>
+        table{
+            margin:10px;
+        }
+        table.quotation-org-Header{
+            width:550pt;
+            border-collapse:collapse;
+        }
+        table.quotation-Header{
+            width:550pt;
+        //		border-collapse:collapse;
+        }
+        .quotation-Header-Title{
+            width:550pt;
+            text-align:center;
+            background-color:black;
+            color:white;
+            font-size:20px;
+        }
+        .myOrgName{
+            text-align:left;
+            width:40%;
+            font-weight:bold;
+            font-size:16px;
+        }
+        .myOrgAddress{
+        //width:27pt;
+            text-align:left;
+        }
+        .myOrgLogo{
+            width:60%;
+            height:100px;
+        /*border:1px solid red;*/
+            text-align: right;
+        }
+        .contact{
+            text-align:left;
+        }
+        .customerName{
+            width:50%;
+            font-weight:bold;
+            font-size:24px;
+        }
+        .meta-head{
+            border:0px solid black;
+            font-weight:bold;
+            padding: 5px;
+            text-align:left;
+            /*background-color:#eee;*/
+            font-size:15px;
+        }
+        .meta-body{
+            border:0px solid black;
+            padding: 5px;
+            text-align:right;
+        }
+        td{
+        //	border:1px solid black;
+        }
+        th{
+            border:1px solid black;
+        }
+        .quotation-Content{
+            width:550pt;
+            border-collapse:collapse;
+
+        }
+        .th-No,.th-Date,.th-Discount,.th-Item,.th-Description,.th-Vehi,.th-UnitCost,.th-Quantity,.th-Price{
+            border:0px solid black;
+            border-bottom:1px solid black;
+            border-top:1px solid black;
+            padding: 5px;
+            font-size:10px;
+        }
+        .th-No{
+            width:10%;
+        }
+        .th-Date{
+            width:10%;
+        }
+        .th-Item{
+            width:10%;
+        }
+        .th-Description{
+            width:20%;
+        }
+        .th-Vehi{
+            width:20%;
+        }
+        .th-UnitCost{
+            width:10%;
+        }
+        .th-Quantity{
+            width:10%;
+            text-align:center;
+        }
+        .th-Discount{
+            width:10%
+        }
+        .th-Price{
+            width:15%;
+        }
+        .td-No,.td-Date,.td-Discount,.td-Item,.td-Description, .td-vehi,.td-UnitCost,.td-Quantity,.td-Price{
+         //border-bottom:1px solid black;
+            padding: 10px;
+            border:0px solid black;
+        }
+        .td-No{
+            width:7%;
+            border-left:0px solid black;
+        }
+        .td-Date{
+            width:13%;
+        }
+        .td-Item{
+            width:10%;
+        }
+        .td-Description{
+            width:20%;
+        }
+        .td-Vehi{
+            width:10%;
+        }
+        .td-UnitCost{
+            width:10%;
+        }
+        .td-Quantity{
+            width:10%;
+            text-align:center;
+        }
+        .td-Discount{
+            width:10%;
+        }
+        .td-Price{
+            width:15%;
+            border-right:1px solid black;
+        }
+        .blank{
+        //border-right:1px solid black;
+        }
+        .footer-head-TOTAL{
+            padding: 10px;
+            border:1px solid black;
+            font-weight:bold;
+            text-align:right;
+        }
+        .footer-body-TOTAL{
+            padding: 10px;
+            border:1px solid black;
+        }
+        .page_Footer{
+            text-align:center;
+            font-weight:bold;
+        }
+        td{
+        //	border:1px solid black;
+        }
+        .footer-line{
+            border:0px solid black !important;
+            border-top:1px solid black !important;
+        }
+    </style>
+</head>
+<body>
+
+<table class="quotation-org-Header">
+    <tbody>
+    <tr>
+        <td class="myOrgName" valign="bottom">
+            '.$myOrgName.'
+        </td>
+        <td class="myOrgLogo" rowspan="4" valign="bottom">
+            '.$myOrLogo.'
+        </td>
+    </tr>
+    <tr>
+        <td class="myOrgAddress" valign="top">
+            '.nl2br($myOrgAddress).'
+        </td>
+    </tr>
+    <tr>
+        <td class="contact" valign="top">
+            Phone No : '.$orgPhone.'
+        </td>
+    </tr>
+    <tr>
+        <td class="contact" valign="top">
+            Fax No. : '.$orgFaxNo.'
+        </td>
+    </tr>
+    </tbody>
+</table>
+<table  class="quotation-Header">
+    <tbody>
+    <thead>
+    <tr>
+        <th colspan="4" class="quotation-Header-Title">
+            STATEMENT OF ACCOUNT
+        </th>
+    </tr>
+    <tr>
+        <th style="border:none">&nbsp;
+        </th>
+    </tr>
+    </thead>
+    <tr>
+        <td rowspan="3" valign="top" > <b>TO : </b>
+        </td>
+        <td  class="customerName">
+            '.$customerName.',
+        </td>
+        <td class="meta-head">
+            Statement Date:
+        </td>
+        <td class="meta-body">';
+            $quotationDate=date_create($quot_quotationDate);
+            $quotTableHeader.=date_format($quotationDate,"d/m/Y").'
+        </td>
+    </tr>
+    <tr class="meta">
+    <td>
+        '.nl2br($customerAddress).'
+    </td>
+    <td class="meta-head">
+        Terms:
+    </td>
+    <td class="meta-body">';
+        $quotTableHeader.=$quot_term.'
+    </td>
+</tr>
+    <tr>
+        <td></td>
+    <td class="meta-head">
+        Page:
+    </td>
+    <td class="meta-body">
+        '.$quot_page.'
+    </td>
+</tr>
+    </tbody>
+</table>
+<table class="quotation-Content">
+    <tr>
+        <th class="th-No">
+            Date
+        </th>
+        <th class="th-Date">
+            Inv. Ref. No
+        </th>
+        <th class="th-Description">
+            Description
+        </th>
+        <th class="th-UnitCost">
+            Debit
+        </th>
+        <th class="th-Quantity">
+            Credit
+        </th>
+        <th class="th-Discount">
+            Balance
+        </th>
+    </tr>
+    <tbody>
+    <tr>
+        <td class="td-No" valign="top">
+            '.$itemDate.'
+        </td>
+        <td class="td-Date" valign="top">
+            '.$itemRef.'
+        </td>
+        <td class="td-Description" valign="top">
+            '.nl2br($itemDescription).'
+        </td>
+        <td class="td-UnitCost" valign="top">
+            '.$itemDebit.'
+        </td>
+        <td class="td-Quantity" valign="top">
+            '.$itemCredit.'
+        </td>
+        <td class="td-Discount" valign="top">
+            '.$itemPrice.'
+        </td>
+    </tr>
+   <!-- <tr>
+        <td colspan="3"  class="blank footer-line" style="border-right:1px solid black;">
+        </td>
+        <td colspan="2" class="footer-head-TOTAL footer-line" >
+            DISCOUNT
+        </td>
+        <td class="footer-body-TOTAL" >
+            RM '.$discount.'
+        </td>
+    </tr> -->
+    <tr>
+        <td colspan="3"  class="blank footer-line" style="border-right:1px solid black;">
+            RINGGIT MALAYSIA: '.$quot_myring.'
+        </td>
+        <td colspan="2" class="footer-head-TOTAL footer-line" >
+            TOTAL
+        </td>
+        <td class="footer-body-TOTAL footer-line" >
+            '.$quotationTotalAmount.'
+        </td>
+    </tr>
+    <tr>
+        <td class="blank" colspan="8" style="padding:10px;">
+            <br/>
+            <br/>
+            '.$extraNote.'
+        </td>
+    </tr>
+    <tr>
+        <td class="blank" colspan="3" style="padding:10px;font-weight:bold;text-align:left;">
+
+            <br/>
+            '.$stamp.'<hr/>
+            <br/>
+            '.$sign.'
+            <br/>
+            '.$attention.'
+            <br/>
+            '.$myOrgName.'
+        </td>
+        <td class="blank" colspan="4"  >
+        </td>
+    </tr>
+    </tbody>
+</table>
+<br/>
+</body>
+</html>

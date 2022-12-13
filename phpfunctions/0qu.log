@@ -1,0 +1,1 @@
+SELECT *, (SELECT name FROM `organizationuser` WHERE quotation.createdBy=id) as name FROM quotation WHERE 1=1 AND createdDate between ? AND ? AND orgId=? 

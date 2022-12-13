@@ -1,0 +1,40 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright © 2011 The Monotype Corporation. All Rights Reserved.
+FontName Arial
+FontSubfamily Italic
+UniqueID Monotype Imaging - Arial Italic
+FullName Arial Italic
+Version Version 5.08a
+PostScriptName Arial-ItalicMT
+Weight Medium
+ItalicAngle -12
+IsFixedPitch false
+UnderlineThickness 73
+UnderlinePosition -106
+FontHeightOffset 33
+Ascender 905
+Descender -212
+FontBBox -517 -325 1359 998
+StartCharMetrics 93
+U 32 ; WX 278 ; N uni0020 ; G 3
+U 66 ; WX 667 ; N uni0042 ; G 37
+U 83 ; WX 667 ; N uni0053 ; G 54
+U 84 ; WX 611 ; N uni0054 ; G 55
+U 97 ; WX 556 ; N uni0061 ; G 68
+U 98 ; WX 556 ; N uni0062 ; G 69
+U 99 ; WX 500 ; N uni0063 ; G 70
+U 100 ; WX 556 ; N uni0064 ; G 71
+U 101 ; WX 556 ; N uni0065 ; G 72
+U 103 ; WX 556 ; N uni0067 ; G 74
+U 104 ; WX 556 ; N uni0068 ; G 75
+U 105 ; WX 222 ; N uni0069 ; G 76
+U 108 ; WX 222 ; N uni006c ; G 79
+U 110 ; WX 556 ; N uni006e ; G 81
+U 111 ; WX 556 ; N uni006f ; G 82
+U 115 ; WX 500 ; N uni0073 ; G 86
+U 121 ; WX 500 ; N uni0079 ; G 92
+EndCharMetrics
+EndFontMetrics

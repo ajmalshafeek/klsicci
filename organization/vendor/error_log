@@ -1,0 +1,23 @@
+[22-Jan-2019 04:15:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php on line 7
+[22-Jan-2019 04:17:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php on line 7
+[22-Jan-2019 04:18:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendorClient.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendorClient.php on line 7
+[22-Jan-2019 04:18:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php on line 7
+[22-Jan-2019 04:18:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/viewVendor.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/viewVendor.php on line 7
+[22-Jan-2019 04:19:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/viewVendor.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/viewVendor.php on line 7
+[22-Jan-2019 04:20:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php on line 7
+[22-Jan-2019 04:23:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addVendor.php on line 7
+[22-Jan-2019 04:23:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php:2) in /home/jcloudmy/public_html/jsoft_acc/organization/vendor/addJobList.php on line 7
+[07-Jul-2020 13:23:27 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:24:18 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:24:30 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:24:35 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:24:46 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:24:53 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 13:25:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 15:56:01 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 15:56:21 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 15:56:29 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 16:20:07 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[07-Jul-2020 16:22:20 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[03-Aug-2020 11:03:55 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47
+[28-Aug-2020 11:11:47 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: theme in /home/jcloudmy/public_html/testing/navMenu.php on line 47

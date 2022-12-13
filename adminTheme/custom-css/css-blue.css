@@ -1,0 +1,613 @@
+/*Header*/
+#mainNav{
+	background-color: #BDBDBD!important;
+	border-style: solid;
+	border-color: #BDBDBD;
+	padding: 2px;
+	width: 100%;
+	
+}
+
+/*Side Navigation Bar*/
+#exampleAccordion{
+	background-color: #103265!important; 
+	width:auto;
+	margin:0px;
+    text-align: left;
+	transition: 0.4s;
+	flex: 1;
+	height:1000px;
+	box-shadow: 2px 2px 2px #BDBDBD;
+	border-radius:5px;
+}
+
+#navbarResponsive{
+	background-color: #BDBDBD;
+	/*flex:1;*/
+}
+
+.fixed-nav{
+	background-color: #BDBDBD!important;
+	flex:1;
+
+}
+
+/*Navbar Scroll bar*/
+.sidenav-not-toggled {
+    overflow-x: auto !important;
+}
+
+.navbar-sidenav {
+    -ms-overflow-style: none !important;
+}
+.navbar-sidenav::-webkit-scrollbar {
+	width: 6px;
+	background-color: #F5F5F5;
+}
+.navbar-sidenav::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+.navbar-sidenav::-webkit-scrollbar-thumb {
+	background-color: #9fcff9;
+	
+}
+
+/*Scroll bar*/
+::-webkit-scrollbar {
+	width: 6px;
+	background-color: #F5F5F5;
+}
+::-webkit-scrollbar-track {
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+::-webkit-scrollbar-thumb {
+	background-color: #9fcff9;
+	
+}
+
+body{
+	font-family:"Segoe UI Semibold";
+	font-weight:600;
+	font-size:16px;
+	background-repeat: no-repeat;
+	background-size:cover; 
+	margin:0; 
+	padding:0; 
+	width:100%; 
+	height:100%; 
+}
+
+/*Content Section*/
+.content-wrapper{
+	background-color:#BDBDBD;
+  
+	
+}
+
+.container-fluid{
+	background-color:#BDBDBD;
+	overflow-x: auto !important;
+}
+
+
+/*Boxes in the content wrapper for home.php*/
+#wrapper {
+	border: 1px solid transparent;
+	padding-top:25px;
+	padding-bottom:20px;
+	margin:2px;
+	width:auto;
+	overflow-x:auto;
+}
+
+#row{
+	position:static;
+	display:flex;
+	flex-wrap:wrap;
+	display:inline-block;
+	
+
+}
+
+#div1, #div2, #div3 {
+    display: inline-block;
+    width:300px;
+    height:300px;
+	border: 1px solid #103265;
+	border-radius:5px;
+	margin-left:auto;
+	margin-bottom:70px;
+	background-color: #103265;
+	top: 0; right: 0; bottom: 0; left: 0;
+	box-shadow: 5px 5px 5px grey;
+	white-space:nowrap;
+}
+
+.container{
+	background-color:white;
+	border-radius:15px;
+	padding-left:20px;
+	padding-top:10px;
+	padding-bottom:10px;
+	padding-right:20px;
+	margin: 0 auto;
+}
+
+
+/*Text CSS*/
+.nav-link-text{
+	color:white!important;
+	padding-left:20px;
+}
+
+.a{
+	color:white;
+}
+
+.nav-item > li > a{
+	color: white;
+}
+
+/*Header in the content wrapper*/
+.breadcrumb{
+	background-color: #103265;
+	align-items: center;
+	list-style: none; 
+	box-shadow: 5px 5px 5px grey;
+	
+}
+
+.breadcrumb-item > a {
+	color: white!important;
+
+}
+
+.breadcrumb-item{
+	color: white!important;
+
+}
+
+.breadcrumb-item.active{
+	color: #e8eaed;
+}
+
+/*<th> for table*/
+.col-form-label{
+
+	font-size: 15px;
+	color:  black;
+
+}
+
+.card-header{
+	background-color: #ecf2f9;
+}
+
+.card-body{
+	background-color: white;
+	border:transparent;
+}
+
+/*Button*/
+.btn-primary{
+	background-color: #103265;
+	border-color: #103265;
+	font-size: 15px;
+	width: 80px;
+	float: center;
+}
+
+.btn.btn-info{
+	background-color: #103265;
+	border-style:solid;
+	border-color: #103265;
+
+}
+
+.btn-success{
+    color: #fff;
+    background-color: #103265;
+    border-color: #103265;
+}
+
+.dropdown-toggle{
+	background-color: #d60808;
+}
+
+#dataTable_wrapper{
+	background-color:white;
+}
+
+
+.selectedspan{
+	color: #404040;
+}
+
+/*Header for icon for Quotation & Invoice*/
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #e8eaed;
+    background-color: transparent;
+}
+
+.nav-pills .nav-link {
+    border-radius: .25rem;
+}
+
+.nav-link {
+    display: block;
+    padding: .5rem 1rem;
+}
+
+.nav-link.disabled {
+    color: white;
+}
+
+a {
+	background-color:white;
+	color:#e8eaed;
+    text-decoration: none;
+    background-color: transparent;
+    
+}
+
+/*Quotation Section*/
+#quot_customername{
+	background-color: #103265;
+	font-size: 15px;
+
+}
+
+#quot_customeraddress{
+	background-color: transparent;
+	font-size: 20px;
+}
+
+#quot_quotationNo{
+	background-color: transparent;
+}
+
+#quot_quotationDate{
+	background-color: transparent;
+}
+
+#quot_dueDate{
+	background-color: transparent;
+}
+
+#quot_totalAmount{
+	background-color: transparent;
+}
+
+#quotationListTable_wrapper{
+	background-color:transparent;
+}
+
+#invoiceListTable_wrapper{
+	background-color:transparent;
+}
+
+/*Table*/
+table.order-list > thead > tr > th {
+	background-color: #c7c9cc ;
+	height: 5px;
+}
+
+table.quotation-Header > thead > tr > th {
+    text-align: center;
+    background-color: #c7c9cc;
+	color: white;
+	padding:10px;
+	border-radius:15px;
+}
+
+.badge-primary {
+    color: #fff;
+    background-color: #00004d;
+}
+
+/*Form*/
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.custom-file-label {
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+    height: calc(2.25rem + 2px);
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+	border-radius: .25rem;
+	width:100%;
+}
+
+/*Footer*/
+.footer{
+	width:100%;
+	color: white;
+	text-align: center;
+	background-color: #103265;
+	border-radius: 5px;
+	padding:.75rem 1rem;
+	position: relative;
+	padding-top:12px;
+	font-family:"Segoe UI";
+	font-weight:600;
+	font-size:16px;
+	margin-top:150px;
+	margin-bottom:0px;
+	flex:1;
+	line-height: 10px; 
+	padding:0;
+	line-height: 50px;
+	bottom:0; 
+}
+
+.floatClear {
+    clear: both;
+}
+
+#colorstrip{
+	width: 100%; 
+	height: auto;
+    border-style: solid;
+    border-color: #495057;
+	background-color: #495057;
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+
+/*Text and text area*/
+input[type=text]#quot_customerName,textarea#quot_customerAddress {
+    width: 100%;
+
+    box-sizing: border-box;
+    border: none;
+    background-color:transparent;
+    color: black;
+}
+/*
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:transparent;
+    color: black;
+}
+
+input[type=text]#username{
+	background-color:white;
+}
+
+textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color:transparent;
+    color: black;
+}
+*/
+.fade show active container{
+	background-color:white;
+}
+
+/*Login Form*/
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color: rgb(250, 255, 189);
+}
+
+.input-group-text{
+	width:86px; 
+	padding:20px;
+}
+
+/*Avatar*/
+.avatar {
+    vertical-align: middle;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+
+.sidenav-toggler{
+	width:auto;
+  flex-direction:row;
+}
+
+/*Center Company Logo*/
+.center {
+    margin-left: auto;
+    margin-right: auto;
+	width: auto;
+	display:block;
+}
+
+/* class="nav-link  disabled"  class="nav-link  disabled"*/
+
+
+
+
+a[aria-expanded="true"]{
+	/*
+	background-color: #42DCA3;
+	*/
+  }
+
+/* page loader */
+.loader{
+    position: fixed;
+    top:30%;
+    left:35%;
+    border: 16px solid #f3f3f3;
+    padding:10%;
+    
+    border-radius: 50%;
+    border-top: 16px solid #3498db;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; 
+    animation: spin 2s linear infinite;
+  }
+  .bg-loader {
+    position: fixed;
+ ;
+    width: 100%;
+    height: 100%;
+    z-index: 9999;
+    background-color:white;
+
+}
+
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* class="nav-link  disabled"  class="nav-link  disabled"*/
+
+/* quotation & summary section */
+table#quotationSummaryTable  , table#invoiceSummaryTable{
+	width:100%;
+	border-collapse:collapse;
+}
+table#quotationSummaryTable > thead ,table#invoiceSummaryTable > thead{
+	background-color:black;
+	color:white;
+}
+table#quotationSummaryTable > tbody >tr >td:nth-child(1),table#invoiceSummaryTable > tbody >tr >td:nth-child(1){
+	background-color:rgb(230, 230, 230);
+	color:black;
+}
+
+table#quotationSummaryTable > tbody >tr >td:nth-child(2),table#invoiceSummaryTable > tbody >tr >td:nth-child(2){
+	background-color:rgb(209, 60, 60);
+	color:black;
+}
+
+table#quotationSummaryTable > tbody >tr >td:nth-child(3),table#invoiceSummaryTable > tbody >tr >td:nth-child(3){
+	background-color:rgb(76, 206, 76);
+	color:black;
+}
+
+
+/*For resetPassword.php*/
+
+#sc-password {
+	background: #f0f0f0;
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 8px;
+	margin-bottom: 2%;
+	transition: opacity 1s;
+	-webkit-transition: opacity 1s;
+  }
+  
+  #sc-password h1 {
+	background: #3399cc;
+	padding: 20px 0;
+	font-size: 140%;
+	font-weight: 300;
+	font-family:"Arial";
+	text-align: center;
+	color: #fff;
+  }
+  
+  div#sc-password .sc-container {
+	background: #f0f0f0;
+	padding: 6% 4%;
+  }
+  
+  div#sc-password input[type="email"],
+  div#sc-password input[type="text"],
+  div#sc-password input[type="password"] {
+	width: 92%;
+	background: #fff;
+	margin-bottom: 4%;
+	border: 1px solid #ccc;
+	padding: 4%;
+	font-size: 95%;
+	font-family:"Arial";
+	color: #555;
+  }
+  
+  div#sc-password input[type="submit"] {
+	width: 100%;
+	background: #3399cc;
+	border: 0;
+	padding: 4%;
+	font-size: 100%;
+	font-family:"Arial";
+	color: #fff;
+	cursor: pointer;
+	transition: background .3s;
+	-webkit-transition: background .3s;
+  }
+
+/*Client Mobile View*/
+
+#COMPLAINT{
+	background-color:transparent;
+	color:#103265;
+}
+
+
+.div_asTextArea{
+	border: 1px solid #ccc;
+    background-color: rgb(250, 255, 189);
+}
+
+.container form input,.container form textarea{
+	background-color: rgb(250, 255, 189);
+	border:none;
+	border-bottom:2px solid green;
+}
+
+
+.container form select{
+	border:none;
+	border-bottom:2px solid gray;
+}
+
+.container form input:invalid,.container form textarea:invalid {
+	background-color: white;
+	border-bottom:2px solid red;
+}
+.container form input:placeholder-shown,.container form textarea:placeholder-shown {
+	background-color: white;
+	border-bottom:2px solid gray;
+}
+.div_asTextArea:empty {
+	background-color: white;
+}
+
+.py-5{
+	background-color:transparent;
+}
+
+

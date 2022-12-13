@@ -1,0 +1,621 @@
+
+Voucher: Array
+(
+    [id] => 88
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 300.00
+    [epf] => 33
+    [epfPerc] => 33
+    [socso] => 100.00
+    [pcb] => 100.00
+    [allowance] => 1,000.00
+    [claims] => 2,000.00
+    [commissions] => 6,789.00
+    [ot] => 1,000.00
+    [bonus] => 1,000.00
+    [totalEarning] => 12089
+    [totalDeduction] => 200.00
+    [datePayment] => 2022-06-18
+    [bankName] => CIMB%^&
+    [bankAcc] => 1234$^&
+    [netPay] => 11,889.00
+    [payslip] => P5951167.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 88PayslipId: 88
+Voucher: Array
+(
+    [id] => 88
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 300.00
+    [epf] => 33
+    [epfPerc] => 33
+    [socso] => 100.00
+    [pcb] => 100.00
+    [allowance] => 1,000.00
+    [claims] => 2,000.00
+    [commissions] => 6,789.00
+    [ot] => 1,000.00
+    [bonus] => 1,000.00
+    [totalEarning] => 12089
+    [totalDeduction] => 200.00
+    [datePayment] => 2022-06-18
+    [bankName] => CIMB%^&
+    [bankAcc] => 1234$^&
+    [netPay] => 11,889.00
+    [payslip] => P5951167.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 88
+Voucher: Array
+(
+    [id] => 88
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 300.00
+    [epf] => 33
+    [epfPerc] => 33
+    [socso] => 100.00
+    [pcb] => 100.00
+    [allowance] => 1,000.00
+    [claims] => 2,000.00
+    [commissions] => 6,789.00
+    [ot] => 1,000.00
+    [bonus] => 1,000.00
+    [totalEarning] => 12089
+    [totalDeduction] => 200.00
+    [datePayment] => 2022-06-18
+    [bankName] => CIMB%^&
+    [bankAcc] => 1234$^&
+    [netPay] => 11,889.00
+    [payslip] => P5951167.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 90
+Voucher: Array
+(
+    [id] => 90
+    [monthText] => August
+    [staffId] => 141
+    [staffName] => RANJINI A/P SURESH KUMAR
+    [employeeId] => 00000141
+    [designation] => Audit Assistant
+    [department] => 
+    [salaryMonth] => 1,254.00
+    [epf] => 112.86
+    [epfPerc] => 112
+    [socso] => 0.00
+    [pcb] => 0.00
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 1254
+    [totalDeduction] => 162.86
+    [datePayment] => 2022-06-22
+    [bankName] => 
+    [bankAcc] => 
+    [netPay] => 1,091.14
+    [payslip] => P5569917.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 91
+Voucher: Array
+(
+    [id] => 91
+    [monthText] => July
+    [staffId] => 141
+    [staffName] => RANJINI A/P SURESH KUMAR
+    [employeeId] => 00000141
+    [designation] => Audit Assistant
+    [department] => 
+    [salaryMonth] => 1,254.00
+    [epf] => 112.86
+    [epfPerc] => 112
+    [socso] => 0.00
+    [pcb] => 0.00
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 1254
+    [totalDeduction] => 162.86
+    [datePayment] => 2022-06-22
+    [bankName] => 
+    [bankAcc] => 
+    [netPay] => 1,091.14
+    [payslip] => P3926436.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 92
+Voucher: Array
+(
+    [id] => 92
+    [monthText] => Jun
+    [staffId] => 117
+    [staffName] => testor
+    [employeeId] => 00000117
+    [designation] => Manager
+    [department] => 
+    [salaryMonth] => 4,000.00
+    [epf] => 360
+    [epfPerc] => 360
+    [socso] => 120.00
+    [pcb] => 123.00
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 4000
+    [totalDeduction] => 644.00
+    [datePayment] => 2022-06-27
+    [bankName] => test
+    [bankAcc] => 0987456444
+    [netPay] => 3,356.00
+    [payslip] => P8666672.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 13
+Voucher: Array
+(
+    [id] => 13
+    [monthText] => May
+    [staffId] => 
+    [staffName] => Use Petty Cash Office For Claim
+    [employeeId] => 
+    [designation] => 
+    [department] => 
+    [salaryMonth] => 98.00
+    [epf] => 
+    [epfPerc] => 
+    [socso] => 
+    [pcb] => 
+    [allowance] => 
+    [claims] => 
+    [commissions] => 
+    [ot] => 
+    [bonus] => 
+    [totalEarning] => 98.00
+    [totalDeduction] => 
+    [datePayment] => 2022-05-28
+    [bankName] => 
+    [bankAcc] => 
+    [netPay] => 98.00
+    [payslip] => 
+    [paymentVoucher] => P1173062.pdf
+)
+PayslipId: 17
+Voucher: Array
+(
+    [id] => 17
+    [monthText] => May
+    [staffId] => 147
+    [staffName] => tester
+    [employeeId] => 00000147
+    [designation] => Tester
+    [department] => 
+    [salaryMonth] => 1,400.00
+    [epf] => 182
+    [epfPerc] => 182
+    [socso] => 23.65
+    [pcb] => 0.00
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 1400
+    [totalDeduction] => 9.45
+    [datePayment] => 2022-06-28
+    [bankName] => Public Bank
+    [bankAcc] => 1234567
+    [netPay] => 1,390.55
+    [payslip] => P8256309.pdf
+    [paymentVoucher] => 
+)
+PayslipId: 13
+Voucher: Array
+(
+    [id] => 13
+    [monthText] => May
+    [staffId] => 
+    [staffName] => Use Petty Cash Office For Claim
+    [employeeId] => 
+    [designation] => 
+    [department] => 
+    [salaryMonth] => 98.00
+    [epf] => 
+    [epfPerc] => 
+    [socso] => 
+    [pcb] => 
+    [allowance] => 
+    [claims] => 
+    [commissions] => 
+    [ot] => 
+    [bonus] => 
+    [totalEarning] => 98.00
+    [totalDeduction] => 
+    [datePayment] => 2022-05-28
+    [bankName] => 
+    [bankAcc] => 
+    [netPay] => 98.00
+    [payslip] => 
+    [paymentVoucher] => P1173062.pdf
+)
+PayslipId: 18
+Voucher: Array
+(
+    [id] => 18
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 1998
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-12
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,773.80
+    [payslip] => P9206881.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 18
+Voucher: Array
+(
+    [id] => 18
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 2000
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-15
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,775.80
+    [payslip] => P7150020.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 18
+Voucher: Array
+(
+    [id] => 18
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 2000
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-15
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,775.80
+    [payslip] => P7150020.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 1
+Voucher: Array
+(
+    [id] => 1
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 1400.00
+    [epf] => 154
+    [epfPerc] => 11
+    [socso] => 7.35
+    [pcb] => 0.00
+    [allowance] => 100.00
+    [claims] => 50.00
+    [commissions] => 2350.00
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 3900
+    [totalDeduction] => 161.35
+    [datePayment] => 2022-02-28
+    [bankName] => Public Bank
+    [bankAcc] => 123456789
+    [netPay] => 3738.65
+    [payslip] => P7569517.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 19
+Voucher: Array
+(
+    [id] => 19
+    [monthText] => February
+    [staffId] => 137
+    [staffName] => RAVICHANDRAN A/L SELVARAJ
+    [employeeId] => 00000137
+    [designation] => Driver
+    [department] => 
+    [salaryMonth] => 1,400.00
+    [epf] => 182
+    [epfPerc] => 182
+    [socso] => 23.65
+    [pcb] => 0.00
+    [allowance] => 22.00
+    [claims] => 2.00
+    [commissions] => 21.00
+    [ot] => 1.00
+    [bonus] => 23.00
+    [totalEarning] => 1409
+    [totalDeduction] => 128.70
+    [datePayment] => 2022-08-17
+    [bankName] => Public Bank
+    [bankAcc] => 6830776312
+    [netPay] => 1,280.30
+    [payslip] => P1995680.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 18
+Voucher: Array
+(
+    [id] => 18
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 0
+    [claims] => 0
+    [commissions] => 0
+    [ot] => 0
+    [bonus] => 0
+    [totalEarning] => 2000
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-15
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,775.80
+    [payslip] => P7150020.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 20
+Voucher: Array
+(
+    [id] => 20
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 123.00
+    [claims] => 123.00
+    [commissions] => 321.00
+    [ot] => 21.00
+    [bonus] => 45.00
+    [totalEarning] => 2133
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-17
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,908.80
+    [payslip] => P7335543.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 20
+Voucher: Array
+(
+    [id] => 20
+    [monthText] => January
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 123.00
+    [claims] => 123.00
+    [commissions] => 321.00
+    [ot] => 21.00
+    [bonus] => 45.00
+    [totalEarning] => 2133
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-17
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,908.80
+    [payslip] => P7335543.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 21
+Voucher: Array
+(
+    [id] => 21
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 654.00
+    [claims] => 5,646.00
+    [commissions] => 64.00
+    [ot] => 654.00
+    [bonus] => 654.00
+    [totalEarning] => 9018
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-17
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 8,793.80
+    [payslip] => P2829547.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 21
+Voucher: Array
+(
+    [id] => 21
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 654.00
+    [claims] => 5,646.00
+    [commissions] => 64.00
+    [ot] => 654.00
+    [bonus] => 654.00
+    [totalEarning] => 9018
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-17
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 8,793.80
+    [payslip] => P2829547.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 22
+Voucher: Array
+(
+    [id] => 22
+    [monthText] => February
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 23.00
+    [claims] => 23.00
+    [commissions] => 32.00
+    [ot] => 32.00
+    [bonus] => 32.00
+    [totalEarning] => 2110
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-18
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,885.80
+    [payslip] => P4116845.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)
+PayslipId: 23
+Voucher: Array
+(
+    [id] => 23
+    [monthText] => March
+    [staffId] => 37
+    [staffName] => Admin
+    [employeeId] => 0000037
+    [designation] => admin
+    [department] => Admin
+    [salaryMonth] => 2,000.00
+    [epf] => 220
+    [epfPerc] => 220
+    [socso] => 7.35
+    [pcb] => 2.10
+    [allowance] => 5.00
+    [claims] => 2.00
+    [commissions] => 2.00
+    [ot] => 2.00
+    [bonus] => 2.00
+    [totalEarning] => 2006
+    [totalDeduction] => 224.20
+    [datePayment] => 2022-08-18
+    [bankName] => Maybank 
+    [bankAcc] => 123456789
+    [netPay] => 1,781.80
+    [payslip] => P5769455.pdf
+    [paymentVoucher] => 
+    [deduction] => 
+)

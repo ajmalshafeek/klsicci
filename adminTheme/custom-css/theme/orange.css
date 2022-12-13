@@ -1,0 +1,32 @@
+/*Button*/
+.btn{
+	background-color: #EB6A22 !important;
+	border-color: #EB6A22 !important;
+	color:black !important;
+}
+
+.btn-primary{
+	background-color: #EB6A22 !important;
+	border-color: #EB6A22 !important;
+	color:black !important;
+}
+
+.nav-item a:hover{
+  background-color:#EB6A22 !important;
+}
+
+/*Header in the content wrapper*/
+.breadcrumb{
+	background-color: #343A40;
+	align-items: center;
+	list-style: none;
+	/*box-shadow: 5px 5px 5px grey;*/
+	border-radius: 0px;
+	border-left: solid 10px #EB6A22;
+}
+
+.dt-button{
+	background-color: #EB6A22 !important;
+	border-color: #EB6A22 !important;
+	color:black !important;
+}

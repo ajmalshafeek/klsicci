@@ -1,0 +1,37 @@
+/*Button*/
+.btn{
+	background-color: #B0D5D0 !important;
+	border-color: #B0D5D0 !important;
+	color:#343A40 !important;
+}
+
+.btn-primary{
+	background-color: #B0D5D0 !important;
+	border-color: #B0D5D0 !important;
+	color:#343A40 !important;
+}
+
+.nav-item a:hover{
+  background-color:#B0D5D0 !important;
+  color: #343A40 !important;
+}
+
+.nav-item .nav-link-text:hover{
+  color: #343A40 !important;
+}
+
+/*Header in the content wrapper*/
+.breadcrumb{
+	background-color: #343A40;
+	align-items: center;
+	list-style: none;
+	/*box-shadow: 5px 5px 5px grey;*/
+	border-radius: 0px;
+	border-left: solid 10px #B0D5D0;
+}
+
+.dt-button{
+  background-color: #B0D5D0 !important;
+  border-color: #B0D5D0 !important;
+  color:#343A40 !important;
+}

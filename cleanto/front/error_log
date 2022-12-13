@@ -1,0 +1,7 @@
+[26-Mar-2019 10:11:55 UTC] PHP Notice:  Undefined index: frequently_discount in /home/jcloudmy/public_html/jsoft_acc/cleanto/front/checkout.php on line 175
+[26-Mar-2019 10:11:55 UTC] PHP Notice:  Undefined index: coupon_code in /home/jcloudmy/public_html/jsoft_acc/cleanto/front/checkout.php on line 175
+[29-Jun-2020 18:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: coupon_code in /home/jcloudmy/public_html/testing/cleanto/front/manual_booking_checkout.php on line 131
+[29-Jun-2020 18:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: service_name in /home/jcloudmy/public_html/testing/cleanto/extension/GoogleCalendar/GoogleCalendar.php on line 942
+[29-Jun-2020 18:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: service_name in /home/jcloudmy/public_html/testing/cleanto/extension/GoogleCalendar/GoogleCalendar.php on line 943
+[29-Jun-2020 18:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: service_name in /home/jcloudmy/public_html/testing/cleanto/extension/GoogleCalendar/GoogleCalendar.php on line 1451
+[29-Jun-2020 18:06:48 Asia/Kuala_Lumpur] PHP Notice:  Undefined index: service_name in /home/jcloudmy/public_html/testing/cleanto/extension/GoogleCalendar/GoogleCalendar.php on line 1452

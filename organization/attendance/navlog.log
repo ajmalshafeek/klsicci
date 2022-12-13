@@ -1,0 +1,443 @@
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 92
+    [fullName] => TAN
+    [name] => TAN
+    [username] => t003
+    [email] => tankangzhi@gmail.com
+    [status] => 1
+    [role] => 4
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+    [module] => Array
+        (
+            [0] => 
+            [4] => 1
+            [6] => 1
+            [10] => 1
+            [12] => 1
+            [15] => 1
+            [16] => 1
+            [17] => 1
+            [18] => 1
+            [19] => 1
+            [20] => 1
+            [22] => 1
+            [27] => 1
+            [35] => 1
+            [36] => 1
+        )
+
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [cid] => 158
+    [clientAddress] => No, 4 G/R, Jalan BK 5A/2A, Bandar Kinrara,, , 47100, Puchong, SELANGOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 92
+    [fullName] => TAN
+    [name] => TAN
+    [username] => t003
+    [email] => tankangzhi@gmail.com
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 92
+    [fullName] => TAN
+    [name] => TAN
+    [username] => t003
+    [email] => tankangzhi@gmail.com
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 0
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 1
+    [supportCam] => 1
+    [userEditable] => 1
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [module] => Array
+        (
+            [0] => 
+            [4] => 1
+            [6] => 1
+            [10] => 1
+            [12] => 1
+            [15] => 1
+            [16] => 1
+            [17] => 1
+            [18] => 1
+            [19] => 1
+            [20] => 1
+            [22] => 1
+            [27] => 1
+            [35] => 1
+            [36] => 1
+        )
+
+    [cid] => 159
+    [clientAddress] => Unit 24.0, 24th Floor,, Public Bank Tower,, 80000, Jalan Wong Ah Fook, JOHOR
+    [clientInstalAddress] =>  
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 37
+    [fullName] => Admin
+    [name] => Admin
+    [username] => admin
+    [email] => admin@gmail.com
+    [status] => 1
+    [role] => 1
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 1
+    [supportCam] => 0
+    [userEditable] => 
+    [downloadclients] => 
+    [editcomplaint] => 
+    [paidStatus] => 
+    [printStaffJob] => <div style='padding: 10px'>Assign by: Admin</div><div class='table-responsive'><table style='width:100%;font-size:10px; border: 1px solid black; border-collapse: collapse;max-width:700px;'><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;' width="25%">REF NO.</th><td style='border: 1px solid black;'>JO00000094</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>CLIENT</th><td style='border: 1px solid black;'>Anshty Enterprise</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>STAFF NAME</th><td style='border: 1px solid black;'>Ajmal</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>JOB NAME</th><td style='border: 1px solid black;'>Sent Out For Delivery</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>JOB CREATED DATE</th><td style='border: 1px solid black;'>2021-04-23 17:06:39</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>START DATE</th><td style='border: 1px solid black;'>2021-06-02 02:12:00</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>END DATE</th><td style='border: 1px solid black;'>2021-06-02 02:12:00</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>ACTION</th><td style='border: 1px solid black;'>done</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>REMARKS</th><td style='border: 1px solid black;'><i style='color:grey'>not filled</i></td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>STATUS</th><td style='border: 1px solid black;'>COMPLETED</td></tr><tr><th style='background: #B5B5B5; border: 1px solid black; color: black;text-align: left;'>LOCATION</th><td style='border: 1px solid black;'><div id='staticMap126'><img src="https://maps.googleapis.com/maps/api/staticmap?center=25.3044,82.9981&zoom=12&size=300x200&maptype=roadmap&markers=color:red%7Clabel:T%7C25.3044,82.9981&language=en&key=AIzaSyBItTTXWsLZVRnRyhEzwfC3pO__QzDKSQo" width="100%" style="max-width:400px;" /></div></td></tr>
+    [idEdit] => 82
+    [staffIdEdit] => 004
+    [fullNameEdit] => Ajmal
+    [nameEdit] => Ajmal
+    [emailEdit] => ajmal@jsoftsolution.com.my
+    [usernameEdit] => ajmal
+    [passwordEdit] => 12345
+    [roleEdit] => 4
+    [phone] => 918968022885
+    [module] => Array
+        (
+            [0] => 
+            [5] => 1
+            [7] => 1
+            [8] => 1
+            [9] => 1
+            [10] => 1
+            [11] => 1
+            [12] => 1
+            [17] => 1
+            [18] => 1
+            [20] => 1
+            [22] => 1
+            [23] => 1
+            [24] => 1
+            [25] => 1
+            [27] => 1
+            [28] => 1
+            [37] => 1
+            [38] => 1
+        )
+
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 1
+    [supportCam] => 1
+    [userEditable] => 1
+    [editcomplaint] => 
+    [downloadclients] => 
+    [hideQuotation] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 1
+    [supportCam] => 1
+    [userEditable] => 1
+    [editcomplaint] => 
+    [downloadclients] => 
+    [hideQuotation] => 
+    [paidStatus] => 
+)
+Array
+(
+    [type] => org
+    [orgLogo] => 2/myOrg/1604425841
+    [orgType] => 0
+    [orgId] => 2
+    [userid] => 82
+    [fullName] => Ajmal
+    [name] => Ajmal
+    [username] => ajmal
+    [email] => ajmal@jsoftsolution.com.my
+    [status] => 1
+    [role] => 4
+    [internalUse] => 1
+    [externalUse] => 1
+    [staffCam] => 1
+    [supportCam] => 1
+    [userEditable] => 1
+    [editcomplaint] => 
+    [downloadclients] => 
+    [hideQuotation] => 
+    [paidStatus] => 
+)

@@ -1,0 +1,120 @@
+
+table.order-list  > thead > tr > th,
+table.order-list  > tbody > tr > td,
+table.order-list  > tfoot > tr > td {
+  border: 1px solid #dddddd;
+}
+table.order-list  > thead > tr > th {
+  background-color:#CC8FCB;
+}
+
+
+table.quotation-Header {
+	width:99%;
+}
+
+table.quotation-Header > thead > tr > th{
+	text-align:center;
+	background-color:black;
+	color:white;
+	
+}
+
+table.quotation-Header input[type],
+table.quotation-Header textarea
+{
+	border:none;
+	
+}
+
+table.quotation-Header > tbody > tr > td.myOrgLogo{
+	
+	text-align:right;
+}
+
+table.quotation-Header > tbody > tr > td.myOrgName{
+	width:80%;
+	text-align:left;
+	
+}
+table.quotation-Header > tbody > tr > td.myOrgAddress{
+	width:80%;
+	text-align:left;
+}
+table.quotation-Header > tbody > tr > td.customerName input{
+	font-size:25px;
+	font-weight:bold;
+}
+table.quotation-Header > tbody > tr > td.meta-head{
+	border:1px solid black;
+	font-weight:bold;
+	padding: 5px; 
+	text-align:left;
+	background-color:#eee;
+	width:15%;
+}
+table.quotation-Header > tbody > tr > td.meta-body{
+	border:1px solid black;
+	padding: 5px; 
+	text-align:right;
+}
+
+table.quotation-Content {
+	
+	width:99%;
+}
+
+
+table.quotation-Content >thead >tr >th {
+	background-color:#eee;
+	border:1px solid black;
+	padding: 5px;
+}
+table.quotation-Content input[type]{
+	border:none;
+	
+}
+
+table.quotation-Content textarea{
+	border:none;
+	
+}
+
+table.quotation-Content >tbody >tr  >td:nth-child(4) input[type]{
+	text-align:center;
+	
+}
+table.quotation-Content >tbody >tr  {
+	border:1px solid black;
+	
+}
+table.quotation-Content >tbody >tr  >td {
+	padding: 10px;
+	
+}
+
+table.quotation-Content >tfoot >tr  >td.blank{
+	border:none;
+	
+}
+table.quotation-Content >tfoot >tr  >td{
+	border:1px solid black;
+	padding: 10px;
+	
+}
+table.quotation-Content >tfoot >tr  >td.meta-head{
+	font-weight:bold;
+	
+}
+table.quotation-Content >tfoot >tr  >td:nth-child(2){
+	text-align:right;
+	
+}
+table textarea {
+	width: 100%;
+	height: 100%;
+	
+	-webkit-box-sizing: border-box; /* <=iOS4, <= Android  2.3 */
+	-moz-box-sizing: border-box; /* FF1+ */
+	box-sizing: border-box; /* Chrome, IE8, Opera, Safari 5.1*/
+}
